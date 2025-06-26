@@ -1,0 +1,16 @@
+{
+  "name": "chatgpt-website",
+  "version": "1.0.0",
+  "description": "ChatGPT AI Assistant Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "vercel dev"
+  },
+  "keywords": ["chatgpt", "ai", "assistant", "vercel"],
+  "author": "Zero Creations",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  }
+}
